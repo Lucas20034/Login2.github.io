@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: sans-serif;
+    
+}
+
+
+
+
+body{
+    background-image:url(fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto', sans-serif;
+
+    width: 100%;
+  max-width: 1360px;
+  margin: 0 auto;
+  overflow: hidden;
+
+  min-width:920px;
+  width: 250%;
+  overflow: hidden;
+}
+
+main{ 
+width: 100%;
+padding: 20px;
+margin: auto;
+margin-top: 100px;
+}
+
+.madre{
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+    position: relative;
+}
+
+.Formulario_Inicio{
+
+
+
+}
+.Correo{
+    width: 200px;
+    height: 25px;
+    max-width: 400px;
+   border-radius: 15px;
+   position: relative;
+   right: 6px;
+    
+
+
+}
+.contraseña{ 
+    width: 200px;
+    height: 25px;
+    position: absolute;
+    max-width: 400px;
+    margin-top: 30px;
+    margin-right: 500px;
+    top:0;    
+    right: 175px;
+    top: 40px;
+    border-radius: 15px;
+    
+    
+    
+}
+
+.button{    
+    width: 70px;
+    height:35px;
+    position: relative;
+    top: 0;
+    right: 80px;
+    top:100px;
+    border-radius: 15px;
+    background-color: blue;
+    color: yellow;
+    
+}
+
+.button2{
+    height: 32px;
+    position: relative;
+    border-bottom: 30px;
+    border-radius: 15px;
+top: 0;
+top: 100px;
+right: 300px;
+background-color: blue;
+color: yellow;
+
+
+}
+
+.button3{
+    background-color: green;
+    color: yellow;
+    border-radius: 15px;
+}
+
+    .h2{
+        font-family: 'Oswald', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Roboto', sans-serif;
+      
+        position: relative ;
+      right: 120px;
+      color: rgb(238, 255, 0);
+
+        
+    }
+
+    .Oregon{
+        position: relative;
+        top: 0px;
+        top: 150px;
+
+        
+
+    }
+
+    
+    .IrAlborde{
+
+        position: relative;
+        top: 0;
+        top:300px;
+    }
+
+
+    .Imagen{
+         position: relative;
+         top: 0;
+         top: -300px;
+
+    }
+
+.Logo
+{
+
+    position: relative;
+    top: 0;
+    top: 200px;
+}
+
+.Register{
+    position: relative;
+    top: -60px;
+}
+
+
+.Contenedor{
+
+
+
+}
