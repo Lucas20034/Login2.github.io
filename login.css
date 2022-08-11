@@ -10,6 +10,7 @@
 
 
 
+
 body{
     background-image:url(fondo.jpg);
     background-size: cover;
@@ -21,14 +22,21 @@ body{
     font-family: 'Playfair Display', serif;
     font-family: 'Roboto', sans-serif;
 
-    width: 100%;
+    width: 200%;
   max-width: 1360px;
   margin: 0 auto;
   overflow: hidden;
 
-  min-width:920px;
-  width: 250%;
+  min-width:720px;
+  width: 100%;
   overflow: hidden;
+
+    
+}
+
+.Contenedor{
+
+    
 }
 
 main{ 
@@ -161,8 +169,6 @@ font-family: 'Roboto', sans-serif;
 }
 
 
-.Contenedor{
 
 
 
-}
